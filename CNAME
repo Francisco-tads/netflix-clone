@@ -1,1 +1,43 @@
+# Netflix clone
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Francisco-tads/netflix-clone/blob/master/LICENSE)
+
+# Sobre o projeto
+
+https://netflix-clone-2-a55ad.web.app/
+
+O projeto Netflix clone é uma aplicação Web e mobile, deixo claro que é apenas uma replica, ele está hospedado no firebase, e toda sua estrutura de código, pode ser visualizada também no Github.
+ [Projeto Netflix Clone](https://netflix-clone-2-a55ad.web.app/ "Site do Netflix clone").
+
+
+
+## Layout mobile
+![Mobile 1](https://github.com/Francisco-tads/netflix-clone/blob/master/img/Screenshot_20221129-160316_Chrome.jpg) 
+
+## Layout web
+![Web 1](https://github.com/Francisco-tads/netflix-clone/blob/master/img/netflix-clone.png)
+
+
+## 
+
+# Tecnologias utilizadas
+
+## Front end
+- HTML 
+- CSS
+- JavaScript
+
+- Create React App
+
+## Implantação em produção
+- Back end: Github
+- Front end web: firebase
+- Banco de dados: Postgresql
+
+# Autor
+
+Francisco Vieira
+
+Meu Linkedin:
+
+https://www.linkedin.com/in/francisco-vieiratads/
 
